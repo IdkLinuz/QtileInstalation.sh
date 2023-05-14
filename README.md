@@ -1,4 +1,4 @@
-# QtileInstalation.sh
+# Qtile Instalation
 Esto busca ser una instalacion automatizada de mi qtile personal, con el tiempo voy ir añadiendo nuevo contenido pero por ahora es un proyecto secundario.
 
 CARACTERISTICAS
